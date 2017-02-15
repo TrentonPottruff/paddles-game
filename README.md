@@ -1,1 +1,1 @@
-paddles-game
+Use the mouse to control your player.
